@@ -1,0 +1,31 @@
+React Crash Course -- Traversy Media
+https://www.youtube.com/watch?v=sBws8MSXN7A&feature=push-u-sub&attr_tag=RiqRFbgK_iePWfGh%3A6
+
+###########################################################################
+
+D:\react\react_crash_todo2>npx create-react-app .
+
+Annie@Annie-PC MINGW32 /d/react/react_crash_todo2 (master)
+$ git remote add origin git@github.com:Annie-Huang/react_crash_todo2.git
+
+Annie@Annie-PC MINGW32 /d/react/react_crash_todo2 (master)
+$ git push -u origin master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
