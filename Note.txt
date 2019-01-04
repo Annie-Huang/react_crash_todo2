@@ -15,8 +15,10 @@ D:\react\react_crash_todo2>npm i uuid
 
 D:\react\react_crash_todo2>npm i react-router-dom
 
+https://jsonplaceholder.typicode.com/
+https://jsonplaceholder.typicode.com/todos
 
-
+D:\react\react_crash_todo2>npm i axios
 
 
 
