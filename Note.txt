@@ -11,6 +11,8 @@ $ git remote add origin git@github.com:Annie-Huang/react_crash_todo2.git
 Annie@Annie-PC MINGW32 /d/react/react_crash_todo2 (master)
 $ git push -u origin master
 
+D:\react\react_crash_todo2>npm i uuid
+
 
 
 
